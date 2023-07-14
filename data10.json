@@ -1,0 +1,50 @@
+[{
+        "id": 1,
+        "fname": "hoda",
+        "lname": "yasser",
+        "city": "alex",
+        "age": 20
+    },
+    {
+        "id": 2,
+        "fname": "ahmed",
+        "lname": "yasser",
+        "city": "alex",
+        "age": 18
+    },
+    {
+        "id": 3,
+        "fname": "yasser",
+        "lname": "ahmed",
+        "city": "alex",
+        "age": 45
+    },
+    {
+        "id": 4,
+        "fname": "ali",
+        "lname": "mohamed",
+        "city": "alex",
+        "age": 26
+    },
+    {
+        "id": 5,
+        "fname": "nada",
+        "lname": "yasser",
+        "city": "cario",
+        "age": 11
+    },
+    {
+        "id": 6,
+        "fname": "ali",
+        "lname": "mohamed",
+        "city": "alex",
+        "age": 26
+    },
+    {
+        "id": 7,
+        "fname": "yasser",
+        "lname": "ahmed",
+        "city": "alex",
+        "age": 45
+    }
+]
